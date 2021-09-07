@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571543943863",
+    "project_id": "apphone-89c8f",
+    "storage_bucket": "apphone-89c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571543943863:android:10f2dd367516bfe925ab32",
+        "android_client_info": {
+          "package_name": "com.ssv.appsalephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571543943863-5biobfqaqm5eurb18ppnec74k0erlnd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXElSC0PUJV9GWDD6X8c0-CPulitTOPGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571543943863-5biobfqaqm5eurb18ppnec74k0erlnd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
